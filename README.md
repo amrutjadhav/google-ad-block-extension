@@ -17,7 +17,7 @@ I was getting bored by annoying ads displaying on the top, bottom or side bar of
 
 ##Output
 
-Google search result for query "home loan" without use of my extension <br/>
-![alt tag](http://ppictians.tk/Projects/withoutext.jpg)
-Google search result for query "home loan" with use of my extension <br/>
+Google search result for query "home loan" without use of my extension <br/><br/>
+![alt tag](http://ppictians.tk/Projects/withoutext.jpg)<br/><br/>
+Google search result for query "home loan" with use of my extension <br/><br/>
 ![alt tag](http://ppictians.tk/Projects/withext.jpg)
