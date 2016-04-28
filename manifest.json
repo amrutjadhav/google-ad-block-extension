@@ -1,0 +1,18 @@
+{
+  "name": "Ads Blocker",
+  "version": "0",
+  "description": "Stay more concentrated while working, by blocking unwanted Ads.",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "block_ads.png"
+  },
+  "permissions": ["tabs", "http://*/*", "https://*/*", "file:///*/*"],
+    "content_scripts": [
+    {
+        "matches": [ "http://*/*", "https://*/*", "file:///*/*"],
+        "js": ["myScript.js"],
+        "all_frames": true
+    }
+  ],
+  "web_accessible_resources": ["myStyles.css"]
+}

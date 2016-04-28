@@ -1,0 +1,25 @@
+#test {
+    margin: 0 10px !important;
+    background: #fff !important;
+    padding: 3px !important;
+    color: #000 !important;
+}
+
+.ads-ad {
+	display: none !important;
+}
+._Ak {
+	display: none !important;
+}
+.annotation {
+	display: none !important;
+}
+.video-annotations {
+	display: none !important;
+}
+.video-ads {
+	display: none !important;
+}
+.ad-container {
+	display: none !important;
+}
